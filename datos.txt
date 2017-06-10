@@ -1,0 +1,5 @@
+Nombre, posX, posY
+pedro, 3, 4
+jose, 2.5, 3
+ana, 40, 50
+flavia, 6, 7
